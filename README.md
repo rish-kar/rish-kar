@@ -160,9 +160,9 @@ Outside product and research work, I keep building things that stretch a differe
 <p align="center">
   <a href="https://www.rishkar.com/">Portfolio</a>
   ·
-  <a href="https://www.linkedin.com/in/rishabh-kar/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/rish-kar/">LinkedIn</a>
   ·
   <a href="https://github.com/rishabhkar">GitHub</a>
   ·
-  <a href="mailto:rishabh-kar@outlook.com">Email</a>
+  <a href="mailto:rish-kar@outlook.com">Email</a>
 </p>
