@@ -2,6 +2,7 @@
   <img src="ReadMe-Resources/GitHub%20Repo%20Image.png" alt="Rishabh Kar Banner" width="100%" />
 </p>
 
+
 <h1 align="center">Backend Systems, Intelligent Tooling, and Research-Grade Software — Built With Intent.</h1>
 
 <p align="center">
