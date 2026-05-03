@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ReadMe-Resources/GitHub%20Repo%20Image.png?v=2" alt="Rishabh Kar Banner" width="100%" />
+  <img src="ReadMe-Resources/GitHub%20Repo%20Image.png?v=3" alt="Rishabh Kar Banner" width="100%" />
 </p>
 
 
