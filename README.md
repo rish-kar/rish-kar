@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="ReadMe-Resources/GitHub%20Repo%20Image.png?v=4" alt="Rishabh Kar Banner" width="100%" />
-</p>
+  <img src="ReadMe-Resources/GitHub-Repo-Image.png?v=5" alt="Rishabh Kar Banner" width="100%" />
 
 
 <h1 align="center">Backend Systems, Intelligent Tooling, and Research-Grade Software — Built With Intent.</h1>
